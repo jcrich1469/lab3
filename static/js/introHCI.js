@@ -19,7 +19,8 @@ function initializePage() {
 		//Adding a CSS class
 		//$("#testjs").addClass("active");
 		//adding a toggle
-		$("#testjs").toggleClass("active");
+		//$("#testjs").toggleClass("active");
+		$(".jumbotron p").addClass("active");
 	});
 
 	// Add any additional listeners here
